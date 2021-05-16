@@ -1,0 +1,20 @@
+{
+  "name": "data-md",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack",
+    "prepublish": "webpack"
+  },
+  "author": "",
+  "repository": "https://github.com/Deu-GZ/data-md.git",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {}
+}
